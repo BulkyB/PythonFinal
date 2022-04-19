@@ -25,7 +25,7 @@
     "lose": 0,
     "stranger": 1,
     "weapon": 1,
-    "weather": 0
+    "weather": 1
   },
   {
     "id": 3,
@@ -81,7 +81,7 @@
     "lose": 0,
     "stranger": 0,
     "weapon": 0,
-    "weather": 0
+    "weather": 1
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
     "lose": 0,
     "stranger": 1,
     "weapon": 1,
-    "weather": 0
+    "weather": 1
   },
   {
     "id": 8,
@@ -207,7 +207,7 @@
     "lose": 0,
     "stranger": 1,
     "weapon": 1,
-    "weather": 0
+    "weather": 1
   },
   {
     "id": 16,
@@ -221,7 +221,7 @@
     "lose": 0,
     "stranger": 1,
     "weapon": 0,
-    "weather": 0
+    "weather": 1
   },
   {
     "id": 17,
@@ -249,7 +249,7 @@
     "lose": 0,
     "stranger": 0,
     "weapon": 1,
-    "weather": 0
+    "weather": 1
   },
   {
     "id": 19,
@@ -277,6 +277,6 @@
     "lose": 0,
     "stranger": 0,
     "weapon": 0,
-    "weather": 0
+    "weather": 1
   }
 ]
