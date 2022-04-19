@@ -1,0 +1,252 @@
+[
+  {
+    "foodName": "Alu Gobi",
+    "foodType": "vegetarian",
+    "calories": 975
+  },
+  {
+    "foodName": "Alu Matar",
+    "foodType": "vegetarian",
+    "calories": 945
+  },
+  {
+    "foodName": "Barfi",
+    "foodType": "vegetarian",
+    "calories": 1005
+  },
+  {
+    "foodName": "Beef Vindaloo",
+    "foodType": "nonvegeterian",
+    "calories": 965
+  },
+  {
+    "foodName": "Butter Chicken",
+    "foodType": "nonvegeterian",
+    "calories": 1095
+  },
+  {
+    "foodName": "Carrot Halwa",
+    "foodType": "vegetarian",
+    "calories": 945
+  },
+  {
+    "foodName": "Chaat Papri",
+    "foodType": "vegetarian",
+    "calories": 630
+  },
+  {
+    "foodName": "Cham-Cham",
+    "foodType": "vegetarian",
+    "calories": 630
+  },
+  {
+    "foodName": "Chana Dal",
+    "foodType": "vegetarian",
+    "calories": 600
+  },
+  {
+    "foodName": "Chana Masala",
+    "foodType": "vegetarian",
+    "calories": 600
+  },
+  {
+    "foodName": "Chapati",
+    "foodType": "vegetarian",
+    "calories": 660
+  },
+  {
+    "foodName": "Chicken 65",
+    "foodType": "nonvegeterian",
+    "calories": 660
+  },
+  {
+    "foodName": "Chicken Biriyani",
+    "foodType": "nonvegeterian",
+    "calories": 620
+  },
+  {
+    "foodName": "Chicken Tikka",
+    "foodType": "nonvegeterian",
+    "calories": 620
+  },
+  {
+    "foodName": "Chili Chicken",
+    "foodType": "nonvegeterian",
+    "calories": 750
+  },
+  {
+    "foodName": "Coriander Chutney",
+    "foodType": "vegetarian",
+    "calories": 750
+  },
+  {
+    "foodName": "Dal Makhani",
+    "foodType": "vegetarian",
+    "calories": 600
+  },
+  {
+    "foodName": "Date Tamarind Chutney",
+    "foodType": "vegetarian",
+    "calories": 600
+  },
+  {
+    "foodName": "Dhokla",
+    "foodType": "vegetarian",
+    "calories": 650
+  },
+  {
+    "foodName": "Gulab Jamun",
+    "foodType": "vegetarian",
+    "calories": 700
+  },
+  {
+    "foodName": "Idili",
+    "foodType": "vegetarian",
+    "calories": 620
+  },
+  {
+    "foodName": "Jalebi",
+    "foodType": "vegetarian",
+    "calories": 670
+  },
+  {
+    "foodName": "Kheema",
+    "foodType": "nonvegeterian",
+    "calories": 680
+  },
+  {
+    "foodName": "Kheer",
+    "foodType": "vegetarian",
+    "calories": 730
+  },
+  {
+    "foodName": "Kulfi",
+    "foodType": "vegetarian",
+    "calories": 640
+  },
+  {
+    "foodName": "Ladoo",
+    "foodType": "vegetarian",
+    "calories": 690
+  },
+  {
+    "foodName": "Lamb Kebabs",
+    "foodType": "nonvegeterian",
+    "calories": 770
+  },
+  {
+    "foodName": "Lamb Vindaloo",
+    "foodType": "nonvegeterian",
+    "calories": 820
+  },
+  {
+    "foodName": "Lime Pickle",
+    "foodType": "vegetarian",
+    "calories": 620
+  },
+  {
+    "foodName": "Maili Kofta",
+    "foodType": "vegetarian",
+    "calories": 670
+  },
+  {
+    "foodName": "Mango Lassi",
+    "foodType": "vegetarian",
+    "calories": 345
+  },
+  {
+    "foodName": "Masala Chai",
+    "foodType": "vegetarian",
+    "calories": 315
+  },
+  {
+    "foodName": "Masala Dosa",
+    "foodType": "vegetarian",
+    "calories": 375
+  },
+  {
+    "foodName": "Masoor Dal",
+    "foodType": "vegetarian",
+    "calories": 335
+  },
+  {
+    "foodName": "Medu Vada",
+    "foodType": "vegetarian",
+    "calories": 465
+  },
+  {
+    "foodName": "Naan",
+    "foodType": "vegetarian",
+    "calories": 610
+  },
+  {
+    "foodName": "Navratan Korma",
+    "foodType": "vegetarian",
+    "calories": 550
+  },
+  {
+    "foodName": "Onion Pakora",
+    "foodType": "vegetarian",
+    "calories": 640
+  },
+  {
+    "foodName": "Papadum",
+    "foodType": "vegetarian",
+    "calories": 430
+  },
+  {
+    "foodName": "Pulao",
+    "foodType": "vegetarian",
+    "calories": 205
+  },
+  {
+    "foodName": "Raita",
+    "foodType": "vegetarian",
+    "calories": 200
+  },
+  {
+    "foodName": "Rajma",
+    "foodType": "vegetarian",
+    "calories": 540
+  },
+  {
+    "foodName": "Ras Malai",
+    "foodType": "vegetarian",
+    "calories": 570
+  },
+  {
+    "foodName": "Rogan Josh",
+    "foodType": "nonvegeterian",
+    "calories": 770
+  },
+  {
+    "foodName": "Saag Paneer",
+    "foodType": "vegetarian",
+    "calories": 770
+  },
+  {
+    "foodName": "Sambar",
+    "foodType": "vegetarian",
+    "calories": 550
+  },
+  {
+    "foodName": "Samosa",
+    "foodType": "vegetarian",
+    "calories": 640
+  },
+  {
+    "foodName": "Tandoori Chicken",
+    "foodType": "nonvegeterian",
+    "calories": 430
+  },
+  {
+    "foodName": "Uthapam",
+    "foodType": "vegetarian",
+    "calories": 205
+  },
+  {
+    "foodName": "Vegetable Jalfrezi",
+    "foodType": "vegetarian",
+    "calories": 200
+  }
+]
