@@ -1,0 +1,66 @@
+[
+  {
+    "ID": 1,
+    "Weapon": "Katana"
+  },
+  {
+    "ID": 2,
+    "Weapon": "Sniper"
+  },
+  {
+    "ID": 3,
+    "Weapon": "Climatact"
+  },
+  {
+    "ID": 4,
+    "Weapon": "bayonet"
+  },
+  {
+    "ID": 5,
+    "Weapon": "club"
+  },
+  {
+    "ID": 6,
+    "Weapon": "Dagger"
+  },
+  {
+    "ID": 7,
+    "Weapon": "Halberd"
+  },
+  {
+    "ID": 8,
+    "Weapon": "Lance"
+  },
+  {
+    "ID": 9,
+    "Weapon": "Pike"
+  },
+  {
+    "ID": 10,
+    "Weapon": "Staff"
+  },
+  {
+    "ID": 11,
+    "Weapon": "Sabre"
+  },
+  {
+    "ID": 12,
+    "Weapon": "Gomu Gomu no mi"
+  },
+  {
+    "ID": 13,
+    "Weapon": "Mera Mera no mi"
+  },
+  {
+    "ID": 14,
+    "Weapon": "Guro Guro no mi"
+  },
+  {
+    "ID": 15,
+    "Weapon": "Yami Yami no mi"
+  },
+  {
+    "ID": 16,
+    "Weapon": "Canon"
+  }
+]
